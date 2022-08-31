@@ -35,7 +35,7 @@ function App() {
             <TaskList />
             
             <Flex 
-                p='400'
+                p='200'
                 fontWeight='extrabold'
                 bgGradient='linear(to-l, teal.300, blue.500)'
                 bgClip='text'
