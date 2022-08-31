@@ -18,7 +18,7 @@ Esse projeto foi criado utilizando como base 2 projetos distintos, sendo eles:
 + https://github.com/raminhuk/react-todo-list
 + https://github.com/abdulsamadayoade/redux-todo
 
-Utilizando a estrutura REDUX do projeto **redux-todo** e toda parte de layout e estrutura REACT do projeto **react-todo-list**, apenas realizamos a conversão dos projetos para Typescript, unificando ambos projetos em um.
+Utilizando a estrutura REDUX do projeto **redux-todo** e toda parte de layout e estrutura REACT do projeto **react-todo-list**, apenas realizamos a conversão dos projetos para Typescript, unificando ambos em apenas um.
 
 ## ❓ Intuito do projeto
 O projeto foi criado para fins didáticos. Faz parte de um trabalho proposto na faculdade do curso de Ciências da Computação, que tem como intuito fazer um estudo aprofundado do TypeScript e demonstrar na prática o funcionamento da linguagem,.
