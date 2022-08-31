@@ -1,5 +1,5 @@
-import { Heading, IconButton, VStack, useColorMode, Link, Flex } from "@chakra-ui/react";
-import { FaSun, FaMoon, FaGithub, FaLinkedin, FaInstagram, FaTwitter, FaFacebook } from 'react-icons/fa';
+import { Heading, IconButton, VStack, useColorMode, Flex } from "@chakra-ui/react";
+import { FaSun, FaMoon } from 'react-icons/fa';
 import TaskList from "./components/Task/List";
 import { store } from "./app/store";
 
@@ -33,7 +33,16 @@ function App() {
             </Heading>
 
             <TaskList />
-
+            
+            <Flex 
+                p='400'
+                fontWeight='extrabold'
+                bgGradient='linear(to-l, teal.300, blue.500)'
+                bgClip='text'
+                >
+                
+                Developed by Davi Perdigao and Edmilson Lino
+            </Flex>
         </VStack>
     );
 }
